@@ -1,0 +1,22 @@
+Need:
+Rice Cooker
+Rice
+Beans
+Salt/ Pepper
+Curry
+Red Pepper
+Jalapenos
+Green Onions
+Water
+Chilli Powder
+
+r: = rice
+w:= water
+r = .5 ##cup
+w = 2*r
+
+mix
+cook
+serve
+
+
